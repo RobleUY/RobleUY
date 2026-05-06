@@ -1,21 +1,15 @@
-# 👋 Hola, soy RobleUY
+## RobleBot
 
-Acá te muestro algunos de mis proyectos:
-
----
-
-## RobleBOT — Bot de WhatsApp
-
-Bot multifuncional con economía virtual, juegos, descargas, IA y más.
+Bot de WhatsApp con economía virtual, juegos, descargas, IA y más.
 
 <div align="center">
-  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/stats" alt="RobleBot Stats" />
+  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/stats" alt="RobleBot Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/topdinero" alt="RobleBot Top Dinero" />
+  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/topdinero" alt="RobleBot Top Dinero"/>
 </div>
 
 <br/>
@@ -28,18 +22,18 @@ Bot multifuncional con economía virtual, juegos, descargas, IA y más.
 &nbsp;
 [![Canal de Updates](https://img.shields.io/badge/Canal_Updates-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaePMFRGk1Fq0mv6b80Q)
 &nbsp;
-[![Panel](https://img.shields.io/badge/Panel_Web-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://robleuy.site/roblebot)
+[![Panel Web](https://img.shields.io/badge/Panel_Web-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://robleuy.site/roblebot)
 
 </div>
 
 ---
 
-## RobleAPI — API pública gratuita
+## RobleAPI
 
-API REST con 69 endpoints públicos: descargas, IA, stalk, imágenes, buscadores y más.
+API REST pública y gratuita.
 
 <div align="center">
-  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/robleapi" alt="RobleAPI Stats" />
+  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/robleapi" alt="RobleAPI Stats"/>
 </div>
 
 <br/>
@@ -56,6 +50,6 @@ API REST con 69 endpoints públicos: descargas, IA, stalk, imágenes, buscadores
 
 <div align="center">
 
-[![RobleGames](https://img.shields.io/badge/RobleGames-7c3aed?style=for-the-badge&logo=gamepad&logoColor=white)](https://www.roblegames.com)
+[![RobleGames](https://img.shields.io/badge/RobleGames-7c3aed?style=for-the-badge&logoColor=white)](https://www.roblegames.com)
 
 </div>

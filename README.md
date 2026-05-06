@@ -3,13 +3,13 @@
 Bot de WhatsApp con economía virtual, juegos, descargas, IA y más.
 
 <div align="center">
-  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/stats?v=2" alt="RobleBot Stats"/>
+  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/stats?v=3" alt="RobleBot Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/topdinero?v=2" alt="RobleBot Top Dinero"/>
+  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/topdinero?v=3" alt="Top Dinero"/>
 </div>
 
 <br/>
@@ -33,7 +33,7 @@ Bot de WhatsApp con economía virtual, juegos, descargas, IA y más.
 API REST pública y gratuita.
 
 <div align="center">
-  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/robleapi?v=2" alt="RobleAPI Stats"/>
+  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/robleapi?v=3" alt="RobleAPI Stats"/>
 </div>
 
 <br/>
@@ -47,6 +47,12 @@ API REST pública y gratuita.
 ---
 
 ## RobleGames
+
+<div align="center">
+  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/roblegames?v=3" alt="RobleGames Stats"/>
+</div>
+
+<br/>
 
 <div align="center">
 

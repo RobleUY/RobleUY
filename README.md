@@ -5,58 +5,51 @@
 </p>
 
 <p align="center">
-  <b>Developer · Uruguay</b>
+  <b>Desarrollador · Uruguay</b>
   <br />
-  Building bots, APIs, websites and games.
+  Creando bots, APIs, sitios web y juegos.
 </p>
 
 <p align="center">
-  <a href="https://robleuy.vercel.app/">Personal Website</a> ·
+  <a href="https://robleuy.vercel.app/">Mi página web</a> ·
   <a href="https://robleapi.vercel.app/">RobleAPI</a> ·
   <a href="https://roblebot.vercel.app/">RobleBot</a>
 </p>
 
 ---
 
-## About me
+## Sobre mí
 
-I'm Sebastián, known online as **RobleUY**, a developer from Uruguay interested in building digital projects, experimenting with ideas and creating useful tools.
+¡Buenas! Soy Sebastián, conocido en internet como **RobleUY**. Soy de Uruguay y me gusta desarrollar proyectos digitales, experimentar con nuevas ideas y crear herramientas útiles.
 
-I work on projects involving bots, APIs, web development and games.
+Me interesan el desarrollo web, los bots, las APIs y la creación de videojuegos.
 
-## My projects
+## Mis proyectos
 
 <table>
   <tr>
     <td width="50%">
       <h3>RobleBot</h3>
-      <p>A WhatsApp bot featuring a virtual economy, games, AI, downloads and interactive commands.</p>
-      <a href="https://roblebot.vercel.app/">Explore RobleBot →</a>
+      <p>Un bot de WhatsApp con economía virtual, juegos, inteligencia artificial, descargas y comandos interactivos.</p>
+      <a href="https://roblebot.vercel.app/">Conocer RobleBot →</a>
     </td>
     <td width="50%">
       <h3>RobleAPI</h3>
-      <p>A public REST API providing tools and endpoints for developers and applications.</p>
-      <a href="https://robleapi.vercel.app/">Explore RobleAPI →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>RobleGames</h3>
-      <p>A collection of gaming projects and interactive experiences.</p>
-      <a href="https://www.roblegames.com">Visit RobleGames →</a>
+      <p>Una API REST pública y gratuita con herramientas y endpoints para desarrolladores y aplicaciones.</p>
+      <a href="https://robleapi.vercel.app/">Explorar RobleAPI →</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## Connect
+## Encontrame en internet
 
 <p align="center">
-  <a href="https://robleuy.vercel.app/">Website</a> ·
+  <a href="https://robleuy.vercel.app/">Página personal</a> ·
   <a href="https://github.com/RobleUY">GitHub</a>
 </p>
 
 <p align="center">
-  <sub>Made in Uruguay by RobleUY.</sub>
+  <sub>Hecho en Uruguay por RobleUY.</sub>
 </p>

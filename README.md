@@ -20,9 +20,7 @@
 
 ## Sobre mí
 
-¡Buenas! Soy Sebastián, conocido en internet como **RobleUY**. Soy de Uruguay y me gusta desarrollar proyectos digitales, experimentar con nuevas ideas y crear herramientas útiles.
-
-Me interesan el desarrollo web, los bots, las APIs y la creación de videojuegos.
+Me llamo Sebastian, tengo 22 años y soy de Uruguay. Soy un apasionado del desarrollo de software y los videojuegos; siempre hay alguna idea dando vueltas o algo nuevo que quiero probar.
 
 ## Mis proyectos
 
@@ -43,13 +41,21 @@ Me interesan el desarrollo web, los bots, las APIs y la creación de videojuegos
 
 ---
 
-## Encontrame en internet
+## ¿Hablamos?
 
 <p align="center">
-  <a href="https://robleuy.vercel.app/">Página personal</a> ·
-  <a href="https://github.com/RobleUY">GitHub</a>
+  <a href="https://www.instagram.com/robleuy/">Instagram</a> ·
+  <a href="https://discord.com/users/753912176041000960">Discord</a>
 </p>
 
 <p align="center">
-  <sub>Hecho en Uruguay por RobleUY.</sub>
+  <sub>Considera seguirme :3</sub>
+</p>
+
+---
+
+## Ven a verme
+
+<p align="center">
+  <a href="https://robleuy.vercel.app/">Mi sitio web</a>
 </p>

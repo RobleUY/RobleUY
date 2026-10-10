@@ -1,61 +1,62 @@
-## RobleBot
+# RobleUY
 
-Bot de WhatsApp con economía virtual, juegos, descargas, IA y más.
+<p align="center">
+  <img src="https://api.delirius.online/random/cat?text=Bienvenid%40" alt="Bienvenid@" width="500" />
+</p>
 
-<div align="center">
-  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/stats?v=4" alt="RobleBot Stats"/>
-</div>
+<p align="center">
+  <b>Developer · Uruguay</b>
+  <br />
+  Building bots, APIs, websites and games.
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/topdinero?v=4" alt="Top Dinero"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Bot Oficial](https://img.shields.io/badge/Bot_Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59895122492)
-&nbsp;
-[![Grupo Oficial](https://img.shields.io/badge/Grupo_Oficial-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HaDX5l2tQCz9KJ7lyw7VHv)
-&nbsp;
-[![Canal de Updates](https://img.shields.io/badge/Canal_Updates-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaePMFRGk1Fq0mv6b80Q)
-&nbsp;
-[![Panel Web](https://img.shields.io/badge/Panel_Web-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://robleuy.site/roblebot)
-
-</div>
+<p align="center">
+  <a href="https://robleuy.vercel.app/">Personal Website</a> ·
+  <a href="https://robleapi.vercel.app/">RobleAPI</a> ·
+  <a href="https://roblebot.vercel.app/">RobleBot</a>
+</p>
 
 ---
 
-## RobleAPI
+## About me
 
-API REST pública y gratuita.
+I'm Sebastián, known online as **RobleUY**, a developer from Uruguay interested in building digital projects, experimenting with ideas and creating useful tools.
 
-<div align="center">
-  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/robleapi?v=4" alt="RobleAPI Stats"/>
-</div>
+I work on projects involving bots, APIs, web development and games.
 
-<br/>
+## My projects
 
-<div align="center">
-
-[![Ver RobleAPI](https://img.shields.io/badge/Ver_RobleAPI-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://robleuy.site/robleapi)
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>RobleBot</h3>
+      <p>A WhatsApp bot featuring a virtual economy, games, AI, downloads and interactive commands.</p>
+      <a href="https://roblebot.vercel.app/">Explore RobleBot →</a>
+    </td>
+    <td width="50%">
+      <h3>RobleAPI</h3>
+      <p>A public REST API providing tools and endpoints for developers and applications.</p>
+      <a href="https://robleapi.vercel.app/">Explore RobleAPI →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>RobleGames</h3>
+      <p>A collection of gaming projects and interactive experiences.</p>
+      <a href="https://www.roblegames.com">Visit RobleGames →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## RobleGames
+## Connect
 
-<div align="center">
-  <img src="https://flourishing-mooncake-fb1e67.netlify.app/api/roblegames?v=4" alt="RobleGames Stats"/>
-</div>
+<p align="center">
+  <a href="https://robleuy.vercel.app/">Website</a> ·
+  <a href="https://github.com/RobleUY">GitHub</a>
+</p>
 
-<br/>
-
-<div align="center">
-
-[![RobleGames](https://img.shields.io/badge/RobleGames-7c3aed?style=for-the-badge&logoColor=white)](https://www.roblegames.com)
-
-</div>
+<p align="center">
+  <sub>Made in Uruguay by RobleUY.</sub>
+</p>
